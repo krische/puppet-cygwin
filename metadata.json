@@ -1,0 +1,13 @@
+{
+  "name": "krische-cygwin",
+  "version": "0.1.0",
+  "summary": "Cygwin Module",
+  "author": "Brian Krische",
+  "description": "Puppet module to install and manage packages with cygwin.",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "git://github.com/krische/puppet-cygwin",
+  "project_page": "http://github.com/krische/puppet-cygwin",
+  "license": "Apache Version 2.0"
+}
